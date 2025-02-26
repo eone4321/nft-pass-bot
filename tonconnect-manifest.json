@@ -1,6 +1,9 @@
 {
   "url": "https://t.me/testpasshamster_bot",
   "name": "NFT Pass Hamster Bot",
+  "iconUrl": "https://raw.githubusercontent.com/ton-blockchain/ton-docs/main/docs/images/ton-symbol.svg",
+  "termsOfUseUrl": "https://ton.org/terms",
+  "privacyPolicyUrl": "https://ton.org/privacy",
   "manifestVersion": 2,
   "capabilities": ["ton_proof", "ton_addr"],
   "tonConnectVersion": 2
